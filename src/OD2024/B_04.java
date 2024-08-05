@@ -2,7 +2,7 @@ package OD2024;
 
 import java.util.*;
 
-public class B_4 {
+public class B_04 {
     static class TreeNode {
         int num; // 当前节点的值
         int childSum; // 当前节点的左子树+右子树的和

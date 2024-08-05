@@ -3,7 +3,7 @@ package OD2024;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class B_6 {
+public class B_06 {
     private static class Card {
         int num;
         String color;

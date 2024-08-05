@@ -2,7 +2,7 @@ package OD2024;
 
 import java.util.Scanner;
 
-public class B_5 {
+public class B_05 {
     static int m;
     static int n;
     static int maxDiff = 3;
